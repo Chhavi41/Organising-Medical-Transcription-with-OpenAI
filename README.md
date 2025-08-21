@@ -15,9 +15,3 @@ The aim is to automatically organise medical data into a clean DataFrame for fur
 
 ---
 
-## ⚙️ Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Chhavi41/Organising-Medical-Transcription-with-OpenAI.git
-   cd Organising-Medical-Transcription-with-OpenAI
